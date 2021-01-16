@@ -17,7 +17,6 @@ export class CategoriesComponent implements OnInit {
   // method call automate after initialize component
   ngOnInit(): void {
     this.categories = this.dataHandler.getCategories();
-    console.log(this.categories);
   }
 
 }
