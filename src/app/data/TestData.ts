@@ -60,7 +60,7 @@ export class TestData {
       id: 5,
       title: 'Watch Vikings',
       priority: TestData.priorities[1],
-      completed: true,
+      completed: false,
       category: TestData.categories[3],
       date: new Date('2020-10-30')
     },
