@@ -29,7 +29,7 @@ export class TestData {
       title: 'Fill up the tank with gasoline',
       priority: TestData.priorities[2],
       completed: false,
-      category: TestData.categories[10],
+      category: TestData.categories[9],
       date: new Date('2020-11-30')
     },
     {
@@ -37,7 +37,7 @@ export class TestData {
       title: 'Finished tasks',
       priority: TestData.priorities[2],
       completed: false,
-      category: TestData.categories[1],
+      category: TestData.categories[0],
       date: new Date('2020-11-30')
     },
     {
@@ -45,7 +45,7 @@ export class TestData {
       title: 'Go to  nature',
       priority: TestData.priorities[3],
       completed: true,
-      category: TestData.categories[2],
+      category: TestData.categories[1],
       date: new Date('2020-08-28')
     },
     {
@@ -53,7 +53,7 @@ export class TestData {
       title: 'Learn Angular',
       priority: TestData.priorities[3],
       completed: false,
-      category: TestData.categories[3],
+      category: TestData.categories[2],
       date: new Date('2020-11-30')
     },
     {
@@ -61,7 +61,7 @@ export class TestData {
       title: 'Watch Vikings',
       priority: TestData.priorities[1],
       completed: true,
-      category: TestData.categories[4],
+      category: TestData.categories[3],
       date: new Date('2020-10-30')
     },
     {
@@ -69,7 +69,7 @@ export class TestData {
       title: 'Push up 100',
       priority: TestData.priorities[2],
       completed: false,
-      category: TestData.categories[5],
+      category: TestData.categories[4],
       date: new Date('2020-11-30')
     },
     {
@@ -77,7 +77,7 @@ export class TestData {
       title: 'Cook steak',
       priority: TestData.priorities[1],
       completed: true,
-      category: TestData.categories[6],
+      category: TestData.categories[5],
       date: new Date('2020-10-28')
     },
     {
@@ -85,7 +85,7 @@ export class TestData {
       title: 'Buy gin',
       priority: TestData.priorities[4],
       completed: true,
-      category: TestData.categories[7],
+      category: TestData.categories[6],
       date: new Date('2020-12-15')
     },
     {
@@ -93,7 +93,7 @@ export class TestData {
       title: 'Go to the doctor with niece',
       priority: TestData.priorities[3],
       completed: true,
-      category: TestData.categories[8],
+      category: TestData.categories[7],
       date: new Date('2020-09-01')
     },
     {
@@ -101,7 +101,7 @@ export class TestData {
       title: 'Buy  new headphones',
       priority: TestData.priorities[1],
       completed: true,
-      category: TestData.categories[9],
+      category: TestData.categories[8],
       date: new Date('2020-08-28')
     },
     {
@@ -109,7 +109,7 @@ export class TestData {
       title: 'Repair the car',
       priority: TestData.priorities[3],
       completed: false,
-      category: TestData.categories[10],
+      category: TestData.categories[9],
       date: new Date('2020-12-15')
     },
     {
@@ -117,7 +117,7 @@ export class TestData {
       title: 'Abdominal exercises',
       priority: TestData.priorities[2],
       completed: false,
-      category: TestData.categories[5],
+      category: TestData.categories[4],
       date: new Date('2020-12-16')
     },
     {
